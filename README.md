@@ -15,11 +15,17 @@ link to live site https://cylialiu.github.io/Telling-Story-with-Data/
 
 ![Household Income](https://user-images.githubusercontent.com/51921356/61190043-00b03880-a664-11e9-8e53-596e01cfad3f.png)
 
-2.
-![House risk](https://user-images.githubusercontent.com/51921356/61190044-00b03880-a664-11e9-8bc0-eec848c1ad36.png)
+2. First, the color is a big problem. We need to know what different colors represent for.   
+Second, I don't like tilting my head every time when I see the x-axis, so I turn it into the Y-aixs.
+Third, I use a red line to point out the house bubble signal, which seems a pretty important information we need to pay attention. 
+
+![House risk](https://user-images.githubusercontent.com/51921356/61190144-8b456780-a665-11e9-8946-f023d929616c.png)
+3.For these three promotion chart. I think the colors are little bit color, so I change some to grey under some circumsatances. And also points out the effective zone.
 ![promotion 1](https://user-images.githubusercontent.com/51921356/61190045-00b03880-a664-11e9-81d1-4ea0be9958bf.png)
 ![Promotion 2](https://user-images.githubusercontent.com/51921356/61190046-00b03880-a664-11e9-9715-3faed6422b90.png)
 ![Promotion 3](https://user-images.githubusercontent.com/51921356/61190047-00b03880-a664-11e9-986b-473295767544.png)
 
-
+4. This chart is way too difficult to draw. So I just want to clarify my idea here.
+First, it would be better to rank the y-axis in some way which can be shown in some cluster for some specific job categories.  
+Second, I would like to use a series color, like from light to dark bule, not rainbow color
 
