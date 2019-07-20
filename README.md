@@ -26,10 +26,15 @@ link to live site https://cylialiu.github.io/Telling-Story-with-Data/
 
 
 ### THE CONVOLUTED, TOO CLEVER BY HALF CHART
-1. Critique
+1. **Critique
 * There too many lines with different colors, numbers which are interlinked with each other. If you do not see closely and do the math, you cannot tell any informative knowledge. And you have no idea if they want you to compare, or say the trend. Too much information means nothing sometimes.
 * The color scheme is too coloful and does not have a focus. 
 * The relationship among phython, R and both is quite complicated. There are some overlap and some are not, which is too hard to tell. 
+
+
+2. **Recreationg
+* I focus a comparsion of the proportion of each platform and the transfer trend from 2016 to 2017. Add the animation could see the change in a more vivid way. 
+<div class="infogram-embed" data-id="f8e8f815-3d0b-4668-b809-7b584f90bf1d" data-type="interactive" data-title="Untitled infographic"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/f8e8f815-3d0b-4668-b809-7b584f90bf1d" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled infographic</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 ## HW 2. sketches 
 1. Considering the first graph, I think the most important infromation should be: The difference among careers cause the different income level. However, I have no idea what kind of trend here suggests using the scatter plot. People vary in different value, and the trend line has on meaning here. I would like to show the percentage in this case, which is most people are doing better than their parents, and also their career matters!
 
