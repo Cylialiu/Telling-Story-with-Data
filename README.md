@@ -13,10 +13,12 @@ The width and the starting point of y-axis should be considered. If we change it
 Moreover, the two stocks use different range which absolutely will show the different version. Actually, when I did the math, I found out that Elan share would not be higher than Pomme during the whole time period. This trick would deceive audience easily. 
 
 2. PERSUADING A PATIENT TO GET SOME SLEEP
-
+The form is too professional to understand. Actually, I don't see some severe problem for the patient and I think he is confusing as I. Put too many terminology is not a good idea. These form can be put into appendix. 
+![e91d1dff-3aba-4958-b1be-9cbd46eb5f67](https://user-images.githubusercontent.com/51921356/61997538-d782a580-b070-11e9-8c11-f708defcc2d4.png)
 3. MAKING A CASE TO HR
+![Chart4](https://user-images.githubusercontent.com/51921356/61997535-cc2f7a00-b070-11e9-9afa-da249e608ece.png)
 
-
+I think the point of the presentation is that, paid parental is important, but our company has not done enough. Just my view, instead of chart, maybe use big bold text would be more powerful to show the presentator points and also I think it might not necessary to cover too much research result. A few is enough to show the point.
 ## HW 3. Sketches 
 ### THE SURPRISINGLY ADAPTABLE LINE CHART
 1.Considering you want to show the total number and also how these, a stacked area chart would be perfect.
