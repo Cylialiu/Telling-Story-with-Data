@@ -8,6 +8,15 @@ For the practice part, I mainly change the not important parts' color into grey 
 ![CHART 2](https://user-images.githubusercontent.com/51921356/61996629-31c93980-b064-11e9-9759-74ac5e58ad78.png)
 ![chart 3](https://user-images.githubusercontent.com/51921356/61996630-32fa6680-b064-11e9-8815-9a147476a29d.png)
 
+1. GIVING GOOD STOCK ADVICE
+The width and the starting point of y-axis should be considered. If we change it into correct scale, the visual would be different. 
+Moreover, the two stocks use different range which absolutely will show the different version. Actually, when I did the math, I found out that Elan share would not be higher than Pomme during the whole time period. This trick would deceive audience easily. 
+
+2. PERSUADING A PATIENT TO GET SOME SLEEP
+
+3. MAKING A CASE TO HR
+
+
 ## HW 3. Sketches 
 ### THE SURPRISINGLY ADAPTABLE LINE CHART
 1.Considering you want to show the total number and also how these, a stacked area chart would be perfect.
