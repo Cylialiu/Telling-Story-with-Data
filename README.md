@@ -4,6 +4,9 @@ link to live site https://cylialiu.github.io/Telling-Story-with-Data/
 ## HW 4. Sketches
 ### Practicing Persuasion
 
+![Chart 1](https://user-images.githubusercontent.com/51921356/61996628-30980c80-b064-11e9-8f35-09b7a11d5a15.png)
+![CHART 2](https://user-images.githubusercontent.com/51921356/61996629-31c93980-b064-11e9-9759-74ac5e58ad78.png)
+![chart 3](https://user-images.githubusercontent.com/51921356/61996630-32fa6680-b064-11e9-8815-9a147476a29d.png)
 
 ## HW 3. Sketches 
 ### THE SURPRISINGLY ADAPTABLE LINE CHART
